@@ -1,2 +1,2 @@
-this is something to test my app
-another test line 
+def calculate_average(total, count):
+    return total / count
